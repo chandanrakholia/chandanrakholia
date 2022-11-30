@@ -1,2 +1,3 @@
-![Header](./header.png)
-
+<p align="center">
+  ![Header](./header.png)
+</p>
