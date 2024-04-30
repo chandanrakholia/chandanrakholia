@@ -1,3 +1,5 @@
+<!--Banner-->
+![chandanrakholia Banner Image](./banner.png)
 <h1 align="center">Hi 👋, I'm Chandan Rakholia</h1>
 <h3 align="center">A passionate Full Stack Developer.</h3>
 
