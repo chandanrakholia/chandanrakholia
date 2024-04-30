@@ -2,7 +2,10 @@
 <h3 align="center">A passionate Full Stack Developer.</h3>
 
 - 📫 How to reach me **chandanrakholia@gmail.com**
-
+<!--Night Owl image-->
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/chandanrakholia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandanrakholia" height="30" width="40" /></a>
